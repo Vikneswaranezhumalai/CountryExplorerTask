@@ -8,8 +8,5 @@
 ## 🎬 Demo Video
 
 <!-- Method 1: Host video in your repo (not recommended for large files) -->
-[Download and watch demo video](demo/demo.mp4)
-
-
-
+[Download and watch demo video](demo/demo.mov)
 
